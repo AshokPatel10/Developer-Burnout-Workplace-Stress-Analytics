@@ -117,7 +117,26 @@ The project includes:
 ### Career Growth & Job Switching Dashboard
 <img width="1299" height="737" alt="5  CAREER GROWTH   JOB SWITCHING" src="https://github.com/user-attachments/assets/798ed30f-93b9-4fc4-9b15-72d47bb5fb3b" />
 
+## Repository Structure
+```
+├── Jupyter Notebook/
+├── SQL Queries/
+├── Dashboard/
+├── Screenshots/
+├── Presentation/
+└── README.md
+```
 
+## Business Recommendations
+ - Improve Work-Life Balance – Implement flexible work arrangements and workload monitoring programs.
+ - Strengthen Career Development – Provide clear promotion pathways and employee growth opportunities.
+ - Invest in AI Upskilling – Help employees adapt to emerging technologies through structured learning initiatives.
+ - Focus on Early-Career Employees – Develop mentoring and retention programs for freshers and junior developers.
+ - Expand Employee Wellness Programs – Support mental health through counseling, wellness initiatives, and stress management resources.
+
+# Author
+## Ashok Patel
+### Data Analytics Portfolio Project
 
 
 
