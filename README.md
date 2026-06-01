@@ -102,19 +102,19 @@ The project includes:
  - Career growth opportunities and promotions contribute to lower burnout and improved workforce stability.
 
 ## Screenshots
-### Executive Overview Dashboard
+### 1. Executive Overview Dashboard
 <img width="1296" height="737" alt="1  EXECUTIVE OVERVIEW" src="https://github.com/user-attachments/assets/fcbbb737-e246-4be0-8f85-5d66d1e991f7" />
 
-### Layoff Risk Analysis Dashboard
+### 2. Layoff Risk Analysis Dashboard
 <img width="1298" height="734" alt="2  LAYOFF RISK ANALYSIS" src="https://github.com/user-attachments/assets/52895942-de8f-4152-bd91-9089efed3308" />
 
-### Burnout & Mental Health Dashboard
+### 3. Burnout & Mental Health Dashboard
 <img width="1301" height="734" alt="3  BURNOUT   MENTAL HEALTH ANALYSIS" src="https://github.com/user-attachments/assets/a882d622-946b-458a-8b54-938d19e7e09e" />
 
-### AI Fear & Career Stability Dashboard
+### 4. AI Fear & Career Stability Dashboard
 <img width="1300" height="738" alt="4  AI FEAR   CAREER STABILITY ANALYSIS" src="https://github.com/user-attachments/assets/c387ca80-bc55-49d5-8fed-ba92106791e6" />
 
-### Career Growth & Job Switching Dashboard
+### 5. Career Growth & Job Switching Dashboard
 <img width="1299" height="737" alt="5  CAREER GROWTH   JOB SWITCHING" src="https://github.com/user-attachments/assets/798ed30f-93b9-4fc4-9b15-72d47bb5fb3b" />
 
 ## Repository Structure
